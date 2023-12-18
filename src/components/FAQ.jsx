@@ -10,7 +10,7 @@ export default function FAQ() {
   return (
     <section id="faq">
       <h1>FAQ (คำถามที่พบบ่อย)</h1>
-      <Accordion allowToggle defaultIndex={[0]}>
+      <Accordion defaultIndex={[0]}>
         <AccordionItem>
           <h2>
             <AccordionButton>
