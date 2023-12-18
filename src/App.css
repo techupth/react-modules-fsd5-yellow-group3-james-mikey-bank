@@ -198,16 +198,6 @@ main {
   padding: 100px;
 }
 
-#faq ul {
-  display: flex;
-  gap: 20px;
-  flex-direction: column;
-  align-items: flex-end;
-  text-align: left;
-  list-style-type: none;
-  width: 70%;
-}
-
 /* Footer Section */
 
 footer {
